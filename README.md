@@ -1,2 +1,2 @@
 # NLP-Module
-NLP Module for The Language Project
+Natural Language Processing Module for The Language Project
