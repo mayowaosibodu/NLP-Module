@@ -1,4 +1,7 @@
 
+''' Neural Network for Signal Processing.'''
+
+
 # Regression curve is being fit.
 # Work on fitting perfectly.
 
